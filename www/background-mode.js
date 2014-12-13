@@ -44,9 +44,9 @@ channel.deviceready.subscribe(function () {
  */
 exports.getDefaults = function () {
     return {
-        title:  'App is running in background',
-        text:   'Doing heavy tasks.',
-        ticker: 'App is running in background',
+        title:  'Assperia',
+        text:   'App est en arrière plan',
+        ticker: 'Assperia',
         resume: true
     };
 };
